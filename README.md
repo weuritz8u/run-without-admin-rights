@@ -19,6 +19,6 @@ start file.exe
 
 *LICENSE* : None
 
-***would be cool to give creadti if copy all of this but defenetly not required.***
+**would be cool to give credit when you copy and republish this but is not required.**
 
 *Feel free to contribute via Issues (although Ideas) and forks / Pull Requests.*
