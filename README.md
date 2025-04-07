@@ -19,4 +19,6 @@ start file.exe
 
 *LICENSE* : None
 
+***would be cool to give creadti if copy all of this but defenetly not required.***
+
 *Feel free to contribute via Issues (although Ideas) and forks / Pull Requests.*
