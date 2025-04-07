@@ -17,6 +17,6 @@ start file.exe
 
 ## Other
 
-*LICENSE* : MIT
+*LICENSE* : None
 
 *Feel free to contribute via Issues (although Ideas) and forks / Pull Requests.*
